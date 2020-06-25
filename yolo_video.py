@@ -63,6 +63,9 @@ if __name__ == '__main__':
 
     FLAGS = parser.parse_args()
 
+    print("WARNING: yolo_video.py flags are not implemented!!")
+    print("Is the correct model path set in yolo.py? ")
+
     if FLAGS.image:
         """
         Image detection mode, disregard any remaining command line arguments

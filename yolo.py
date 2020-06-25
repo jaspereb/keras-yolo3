@@ -20,10 +20,10 @@ from keras.utils import multi_gpu_model
 
 class YOLO(object):
     _defaults = {
-        "model_path": 'model_data/yolo.h5',
+        "model_path": 'defaultmodelgoeshere.h5',
         "anchors_path": 'model_data/yolo_anchors.txt',
-        "classes_path": 'model_data/coco_classes.txt',
-        "score" : 0.3,
+        "classes_path": 'model_data/plum_classes.txt',
+        "score" : 0.01,
         "iou" : 0.45,
         "model_image_size" : (416, 416),
         "gpu_num" : 1,
@@ -39,6 +39,10 @@ class YOLO(object):
     def __init__(self, **kwargs):
         self.__dict__.update(self._defaults) # set up default values
         self.__dict__.update(kwargs) # and update with user overrides
+
+        print("Loading model with parameters: ")
+        print(self.__dict__)
+
         self.class_names = self._get_class()
         self.anchors = self._get_anchors()
         self.sess = K.get_session()
@@ -154,7 +158,7 @@ class YOLO(object):
             # My kingdom for a good redistributable image drawing library.
             for i in range(thickness):
                 draw.rectangle(
-                    [left + i, top + i, right - i, bottom - i],
+                    [left + i, top + i, right - i, bottom - i], #This is x0, y0, x1, y1
                     outline=self.colors[c])
             draw.rectangle(
                 [tuple(text_origin), tuple(text_origin + label_size)],
@@ -165,6 +169,33 @@ class YOLO(object):
         end = timer()
         print(end - start)
         return image
+
+    def get_boxes(self, image):
+        start = timer()
+
+        if self.model_image_size != (None, None):
+            assert self.model_image_size[0]%32 == 0, 'Multiples of 32 required'
+            assert self.model_image_size[1]%32 == 0, 'Multiples of 32 required'
+            boxed_image = letterbox_image(image, tuple(reversed(self.model_image_size)))
+        else:
+            new_image_size = (image.width - (image.width % 32),
+                              image.height - (image.height % 32))
+            boxed_image = letterbox_image(image, new_image_size)
+        image_data = np.array(boxed_image, dtype='float32')
+
+        print(image_data.shape)
+        image_data /= 255.
+        image_data = np.expand_dims(image_data, 0)  # Add batch dimension.
+
+        out_boxes, out_scores, out_classes = self.sess.run(
+            [self.boxes, self.scores, self.classes],
+            feed_dict={
+                self.yolo_model.input: image_data,
+                self.input_image_shape: [image.size[1], image.size[0]],
+                K.learning_phase(): 0
+            })
+
+        return out_boxes, out_scores, out_classes
 
     def close_session(self):
         self.sess.close()

@@ -1,0 +1,87 @@
+/home/jasper/Datasets/Night/JPEGImages/0003.jpg 1,76,30,122,0 1,280,34,315,0 43,316,89,359,0 290,136,332,179,0 351,240,387,275,0 319,333,355,364,0 369,332,417,371,0 105,400,132,429,0
+/home/jasper/Datasets/Night/JPEGImages/0007.jpg 1,1,267,207,0
+/home/jasper/Datasets/Night/JPEGImages/0011.jpg 257,1,497,143,0
+/home/jasper/Datasets/Night/JPEGImages/0015.jpg 301,41,342,82,0 314,160,352,192,0 347,238,387,274,0 341,344,370,377,0 48,320,88,362,0 1,77,28,129,0 82,244,110,274,0
+/home/jasper/Datasets/Night/JPEGImages/0019.jpg 178,135,230,182,0 238,81,286,130,0 266,156,307,201,0 217,223,256,264,0 275,298,314,342,0 1,154,35,188,0 52,223,101,276,0 542,204,587,247,0 570,232,614,276,0 530,343,575,390,0
+/home/jasper/Datasets/Night/JPEGImages/0023.jpg 235,426,311,480,0
+/home/jasper/Datasets/Night/JPEGImages/0027.jpg 503,237,640,384,0
+/home/jasper/Datasets/Night/JPEGImages/0031.jpg 476,19,531,68,0 277,345,320,386,0 23,296,71,345,0 1,153,49,201,0 1,85,42,126,0 281,451,316,479,0 334,367,374,403,0 520,318,571,366,0
+/home/jasper/Datasets/Night/JPEGImages/0035.jpg 407,16,462,68,0 225,344,266,385,0 280,364,321,406,0 224,445,267,480,0 1,300,18,344,0 438,279,463,306,0
+/home/jasper/Datasets/Night/JPEGImages/0039.jpg 273,128,319,174,0 159,44,209,88,0 1,400,17,437,0 328,236,364,277,0 523,173,579,219,0
+/home/jasper/Datasets/Night/JPEGImages/0043.jpg 1,149,205,340,0
+/home/jasper/Datasets/Night/JPEGImages/0047.jpg 30,132,104,195,0 238,284,327,381,0
+/home/jasper/Datasets/Night/JPEGImages/0051.jpg 158,34,209,87,0 1,395,21,435,0 277,126,319,174,0 329,234,367,276,0 527,171,579,219,0
+/home/jasper/Datasets/Night/JPEGImages/0055.jpg 110,343,187,415,0 386,236,444,286,0 388,342,457,404,0
+/home/jasper/Datasets/Night/JPEGImages/0059.jpg 1,147,45,186,0 303,382,352,435,0 7,462,42,480,0
+/home/jasper/Datasets/Night/JPEGImages/0063.jpg 460,258,504,296,0 209,435,236,459,0 21,396,54,428,0
+/home/jasper/Datasets/Night/JPEGImages/0067.jpg 394,289,438,334,0 384,371,439,421,0 569,94,611,139,0 550,164,583,194,0 602,174,640,219,0 594,242,640,291,0 543,360,586,399,0
+/home/jasper/Datasets/Night/JPEGImages/0071.jpg 311,103,356,145,0 355,179,400,222,0 346,246,385,290,0 312,366,347,401,0 345,422,381,453,0 161,382,189,423,0 546,217,583,254,0
+/home/jasper/Datasets/Night/JPEGImages/0075.jpg 1,1,181,151,0 367,163,517,310,0
+/home/jasper/Datasets/Night/JPEGImages/0079.jpg 376,66,589,292,0
+/home/jasper/Datasets/Night/JPEGImages/0083.jpg 154,62,339,250,0 501,50,617,175,0
+/home/jasper/Datasets/Night/JPEGImages/0087.jpg 6,200,46,240,0 1,261,32,300,0 31,275,61,310,0 1,369,43,405,0 8,434,57,473,0 203,427,253,480,0 266,308,305,340,0 181,220,222,248,0 343,220,379,257,0 422,119,468,164,0 402,279,438,306,0 257,366,307,408,0
+/home/jasper/Datasets/Night/JPEGImages/0091.jpg 193,135,239,181,0 88,223,147,276,0 154,308,199,351,0 1,324,37,366,0 487,95,529,142,0 536,1,572,21,0 526,48,554,79,0 407,295,454,339,0 597,324,640,362,0
+/home/jasper/Datasets/Night/JPEGImages/0095.jpg 94,140,140,186,0 33,236,77,282,0 109,302,150,346,0 361,35,415,92,0 426,159,476,205,0 578,251,621,287,0 579,316,621,350,0 582,346,640,401,0
+/home/jasper/Datasets/Night/JPEGImages/0099.jpg 93,1,277,135,0
+/home/jasper/Datasets/Night/JPEGImages/0103.jpg 387,306,473,401,0
+/home/jasper/Datasets/Night/JPEGImages/0107.jpg 150,22,193,68,0 386,330,423,367,0 420,310,460,345,0 395,288,429,317,0 378,230,407,258,0 616,108,640,144,0
+/home/jasper/Datasets/Night/JPEGImages/0111.jpg 249,110,296,151,0 91,305,131,340,0 40,325,79,366,0 110,407,147,440,0 325,416,356,444,0 309,240,348,275,0 481,75,527,122,0 477,160,522,205,0 436,235,475,272,0 441,285,475,320,0
+/home/jasper/Datasets/Night/JPEGImages/0115.jpg 276,211,404,338,0
+/home/jasper/Datasets/Night/JPEGImages/0119.jpg 298,72,341,117,0 311,158,351,199,0 279,233,310,269,0 295,283,325,318,0 157,417,194,459,0 155,244,187,279,0 155,50,193,87,0 459,315,489,343,0 489,373,523,402,0 512,237,547,275,0 503,4,531,33,0
+/home/jasper/Datasets/Night/JPEGImages/0123.jpg 286,331,464,480,0
+/home/jasper/Datasets/Night/JPEGImages/0127.jpg 135,53,182,94,0 282,74,330,115,0 300,162,338,195,0 489,230,533,271,0 447,322,477,353,0 260,234,295,265,0 266,286,296,315,0 132,414,173,452,0 130,245,171,278,0
+/home/jasper/Datasets/Night/JPEGImages/0131.jpg 47,100,93,144,0 81,189,127,232,0 50,268,81,300,0 74,401,103,430,0 273,268,311,306,0 268,423,305,464,0
+/home/jasper/Datasets/Night/JPEGImages/0135.jpg 254,115,311,165,0 225,17,291,76,0 101,1,160,31,0 86,361,132,400,0 225,194,274,230,0 233,332,267,359,0 432,222,496,266,0 402,382,449,415,0
+/home/jasper/Datasets/Night/JPEGImages/0139.jpg 19,40,212,218,0
+/home/jasper/Datasets/Night/JPEGImages/0143.jpg 73,65,119,107,0 108,154,151,190,0 76,231,109,255,0 91,346,131,377,0 281,369,317,407,0
+/home/jasper/Datasets/Night/JPEGImages/0147.jpg 245,325,318,395,0
+/home/jasper/Datasets/Night/JPEGImages/0151.jpg 276,367,373,453,0
+/home/jasper/Datasets/Night/JPEGImages/0155.jpg 488,352,531,392,0 254,436,303,480,0 304,337,337,375,0 1,254,33,317,0 1,218,40,261,0 1,364,21,408,0
+/home/jasper/Datasets/Night/JPEGImages/0159.jpg 140,6,173,42,0 121,307,161,351,0 139,335,179,375,0 390,364,419,400,0 508,292,539,326,0 516,221,552,262,0
+/home/jasper/Datasets/Night/JPEGImages/0163.jpg 338,237,407,317,0
+/home/jasper/Datasets/Night/JPEGImages/0167.jpg 159,1,330,150,0 1,1,237,132,0
+/home/jasper/Datasets/Night/JPEGImages/0171.jpg 213,282,377,436,0
+/home/jasper/Datasets/Night/JPEGImages/0175.jpg 384,254,426,289,0 407,295,446,335,0 422,346,461,385,0 448,70,504,119,0 98,314,124,340,0 55,330,77,353,0 240,181,266,208,0 160,212,189,235,0
+/home/jasper/Datasets/Night/JPEGImages/0179.jpg 29,162,182,296,0 1,1,101,179,0 168,402,286,480,0
+/home/jasper/Datasets/Night/JPEGImages/0183.jpg 52,1,210,130,0 90,326,269,480,0 117,200,224,306,0
+/home/jasper/Datasets/Night/JPEGImages/0187.jpg 205,343,272,410,0
+/home/jasper/Datasets/Night/JPEGImages/0191.jpg 147,419,183,454,0 1,454,25,480,0 376,221,418,265,0
+/home/jasper/Datasets/Night/JPEGImages/0195.jpg 398,272,433,311,0 588,307,622,343,0
+/home/jasper/Datasets/Night/JPEGImages/0199.jpg 103,118,155,161,0
+/home/jasper/Datasets/Night/JPEGImages/0203.jpg 480,133,525,175,0
+/home/jasper/Datasets/Night/JPEGImages/0207.jpg 324,355,441,457,0
+/home/jasper/Datasets/Night/JPEGImages/0211.jpg 225,181,281,232,0 550,286,576,313,0 560,133,581,152,0
+/home/jasper/Datasets/Night/JPEGImages/0215.jpg 83,369,260,480,0
+/home/jasper/Datasets/Night/JPEGImages/0219.jpg 223,139,274,179,0 494,368,526,397,0 538,234,568,259,0
+/home/jasper/Datasets/Night/JPEGImages/0223.jpg 402,150,429,186,0 404,221,432,254,0 73,133,122,179,0
+/home/jasper/Datasets/Night/JPEGImages/0227.jpg 279,180,343,259,0 155,305,205,357,0
+/home/jasper/Datasets/Night/JPEGImages/0231.jpg 1,347,73,480,0 502,230,640,337,0
+/home/jasper/Datasets/Night/JPEGImages/0235.jpg 233,11,259,42,0 26,322,61,353,0 65,314,97,341,0 382,288,411,318,0
+/home/jasper/Datasets/Night/JPEGImages/0239.jpg 601,154,630,185,0 615,317,640,368,0 446,287,484,326,0 445,333,483,385,0 420,323,458,364,0 25,344,62,380,0 1,395,8,420,0
+/home/jasper/Datasets/Night/JPEGImages/0243.jpg 518,46,640,244,0 331,1,494,74,0 1,1,98,67,0
+/home/jasper/Datasets/Night/JPEGImages/0247.jpg 526,270,564,307,0 515,338,554,376,0 1,291,14,317,0 512,103,546,141,0 572,128,603,156,0
+/home/jasper/Datasets/Night/JPEGImages/0251.jpg 143,87,218,174,0 544,240,628,340,0
+/home/jasper/Datasets/Night/JPEGImages/0255.jpg 244,182,299,231,0 358,209,416,265,0 36,174,116,260,0
+/home/jasper/Datasets/Night/JPEGImages/0259.jpg 54,116,84,147,0 55,411,88,450,0 391,220,425,262,0 604,295,632,329,0
+/home/jasper/Datasets/Night/JPEGImages/0263.jpg 385,94,594,267,0 567,1,640,58,0
+/home/jasper/Datasets/Night/JPEGImages/0267.jpg 379,1,640,132,0
+/home/jasper/Datasets/Night/JPEGImages/0271.jpg 37,43,79,79,0 40,328,76,361,0 27,395,60,434,0 315,231,359,272,0 553,209,590,248,0
+/home/jasper/Datasets/Night/JPEGImages/0275.jpg 326,229,366,269,0 125,165,161,199,0 491,368,524,397,0
+/home/jasper/Datasets/Night/JPEGImages/0279.jpg 122,294,168,339,0 269,318,308,358,0 576,211,611,243,0 621,266,640,301,0
+/home/jasper/Datasets/Night/JPEGImages/0283.jpg 456,129,482,151,0
+/home/jasper/Datasets/Night/JPEGImages/0287.jpg 354,233,430,317,0
+/home/jasper/Datasets/Night/JPEGImages/0291.jpg 412,115,453,158,0 373,233,401,265,0 34,102,79,143,0
+/home/jasper/Datasets/Night/JPEGImages/0295.jpg 253,202,320,264,0 327,336,390,393,0 459,354,508,395,0
+/home/jasper/Datasets/Night/JPEGImages/0299.jpg 444,283,536,388,0
+/home/jasper/Datasets/Night/JPEGImages/0303.jpg 308,104,364,165,0 1,402,65,462,0
+/home/jasper/Datasets/Night/JPEGImages/0307.jpg 511,3,601,86,0 198,439,241,480,0
+/home/jasper/Datasets/Night/JPEGImages/0311.jpg 329,141,416,229,0 12,1,112,18,0
+/home/jasper/Datasets/Night/JPEGImages/0315.jpg 268,164,375,267,0 452,352,502,394,0
+/home/jasper/Datasets/Night/JPEGImages/0319.jpg 148,199,208,257,0 1,26,15,62,0 34,300,73,338,0 212,405,265,466,0 389,118,437,164,0 511,257,550,292,0
+/home/jasper/Datasets/Night/JPEGImages/0323.jpg 229,207,276,252,0 254,364,277,390,0 300,323,321,345,0 435,330,466,361,0 479,327,522,368,0 603,289,637,321,0
+/home/jasper/Datasets/Night/JPEGImages/0327.jpg 212,191,247,221,0 593,180,640,226,0 219,334,255,371,0 75,305,98,330,0 18,253,40,275,0 127,47,159,79,0 434,278,452,296,0 424,355,454,381,0
+/home/jasper/Datasets/Night/JPEGImages/0331.jpg 256,119,318,182,0 53,448,110,480,0 396,347,454,405,0
+/home/jasper/Datasets/Night/JPEGImages/0335.jpg 390,124,436,171,0 487,295,544,362,0 222,371,256,419,0 30,174,71,216,0
+/home/jasper/Datasets/Night/JPEGImages/0339.jpg 458,178,500,219,0 620,165,640,198,0 303,298,338,329,0 352,241,373,264,0 377,35,416,79,0 95,269,113,292,0 577,323,605,347,0
+/home/jasper/Datasets/Night/JPEGImages/0343.jpg 384,173,478,260,0
+/home/jasper/Datasets/Night/JPEGImages/0347.jpg 53,158,93,197,0 307,399,360,448,0 398,93,452,140,0
