@@ -3,6 +3,11 @@
 *.weights
 *.h5
 logs/
+/DayResults/
+/DayTransferResults/
+/NightResults/
+/NightTransferResults/
+
 *_test.py
 
 # Byte-compiled / optimized / DLL files
